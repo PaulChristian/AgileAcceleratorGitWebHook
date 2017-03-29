@@ -1,7 +1,7 @@
 AgileAcceleratorGitWebHook 
 =================
 
-### Synopsis test comment
+### Synopsis
 
 This script is meant to run as a service in SFM as receiver for git commit POSTs.  On each commit, a call is made to the GUS partner API. This call will generate a "change_list" object used to associate a code check with a GUS story or bug.
 
