@@ -1,4 +1,4 @@
-AgileAcceleratorGitWebHooooooooooooasdfasdfasdk 
+AgileAcceleratorGitWebHook 
 =================
 
 ### Synopsis
